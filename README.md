@@ -1,4 +1,4 @@
-# InstantStay-SQL
+# InstantStay-DBA
 
 InstantStay is the new online marketplace to find accommodation in various cities and states. It focuses on gathering the house owners and tenants together as a trusted platform. Hosts join to the system with their houses to be rented out. Similarly, guests join to the system to rent available houses. In addition, channels such as travel agencies, newspapers join InstantStay for connecting customers from different platforms.
 
